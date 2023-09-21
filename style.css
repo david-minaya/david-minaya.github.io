@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+img {
+  height: 100%;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
